@@ -1,0 +1,24 @@
+{
+  "name": "tracalorie_project",
+  "version": "1.0.0",
+  "description": "web application for tracking calories using vanilla javascript and materialize\r using the module pattern",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haytham-bammou/tracking-calories.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haytham-bammou/tracking-calories/issues"
+  },
+  "homepage": "https://github.com/haytham-bammou/tracking-calories#readme"
+}
